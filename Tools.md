@@ -9,7 +9,7 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 ## Packaging
 
 * [Pack](https://github.com/juxt/pack.alpha) - Clojure project packager using tools.deps
-* [depsstar](https://github.com/healthfinch/depstar) - clj-based uberjarrer
+* [depstar](https://github.com/healthfinch/depstar) - clj-based uberjarrer
 
 ## Testing
 
