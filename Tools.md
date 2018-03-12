@@ -2,9 +2,9 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 
 ## Build tool integration
 
-* [boot-tools-deps](https://github.com/seancorfield/boot-tools-deps) - use deps.edn dependencies from Boot
-* [lein-tools-deps](https://github.com/RickMoynihan/lein-tools-deps) - use deps.edn dependencies from Leiningen
-* [shadow-cljs](https://github.com/thheller/shadow-cljs)
+* [boot-tools-deps](https://github.com/seancorfield/boot-tools-deps) - plugin to use deps.edn dependencies from Boot
+* [lein-tools-deps](https://github.com/RickMoynihan/lein-tools-deps) - plugin to use deps.edn dependencies from Leiningen
+* [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation
 
 ## Packaging
 
