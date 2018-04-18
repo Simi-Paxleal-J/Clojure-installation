@@ -20,3 +20,6 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 
 * [Depot](https://github.com/Olical/depot) - Find newer versions of your deps
 
+## Runtimes
+
+* [Planck](http://planck-repl.org) - self-hosted ClojureScript REPL with `plk` analog of `clj`
