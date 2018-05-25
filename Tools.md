@@ -10,6 +10,7 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 
 * [Pack](https://github.com/juxt/pack.alpha) - Clojure project packager using tools.deps
 * [depstar](https://github.com/healthfinch/depstar) - clj-based uberjarrer
+* [clj.native-image](https://github.com/taylorwood/clj.native-image) - Generate GraalVM native images with Clojure CLI and deps.edn
 
 ## Testing
 
