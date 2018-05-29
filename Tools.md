@@ -1,10 +1,15 @@
 This is a page to collect tools that use or work with tools.deps.alpha (or the clojure tools).
 
+## Project creation
+
+* [clj-new](https://github.com/seancorfield/clj-new) - generate new project templates using just the `clj` command-line tool
+
 ## Build tool integration
 
 * [boot-tools-deps](https://github.com/seancorfield/boot-tools-deps) - plugin to use deps.edn dependencies from Boot
 * [lein-tools-deps](https://github.com/RickMoynihan/lein-tools-deps) - plugin to use deps.edn dependencies from Leiningen
 * [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation
+* [depify](https://github.com/hagmonk/depify) - creates or updates a deps.edn file for existing Leiningen projects
 
 ## Packaging
 
