@@ -30,3 +30,7 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 ## Runtimes
 
 * [Planck](http://planck-repl.org) - self-hosted ClojureScript REPL with `plk` analog of `clj`
+
+## Deployment
+
+* [Datomic Ions](https://docs.datomic.com/cloud/ions/ions.html) - deploy Clojure code to an autoscalable Datomic cluster in AWS
