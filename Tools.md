@@ -4,6 +4,11 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 
 * [clj-new](https://github.com/seancorfield/clj-new) - generate new project templates using just the `clj` command-line tool
 
+## Lint tool integration
+
+* [cljfmt-runner](https://github.com/JamesLaverack/cljfmt-runner) — run cljfmt to find and/or fix code formatting issues
+
+
 ## Build tool integration
 
 * [boot-tools-deps](https://github.com/seancorfield/boot-tools-deps) - plugin to use deps.edn dependencies from Boot
