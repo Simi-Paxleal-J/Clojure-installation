@@ -18,9 +18,10 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 
 ## Packaging
 
-* [Pack](https://github.com/juxt/pack.alpha) - Clojure project packager using tools.deps
-* [depstar](https://github.com/healthfinch/depstar) - clj-based uberjarrer
 * [clj.native-image](https://github.com/taylorwood/clj.native-image) - Generate GraalVM native images with Clojure CLI and deps.edn
+* [badigeon](https://github.com/EwenG/badigeon)
+* [depstar](https://github.com/healthfinch/depstar) - clj-based uberjarrer
+* [Pack](https://github.com/juxt/pack.alpha) - Clojure project packager using tools.deps
 * [revolt](https://github.com/mbuczko/revolt) - trampoline to building/packaging tasks, generates highly configurable [capsules](http://www.capsule.io/)
 
 ## Testing
