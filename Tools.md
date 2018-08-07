@@ -6,8 +6,8 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 
 ## Lint tool integration
 
+* [clj-check](https://github.com/athos/clj-check) - `lein check` alternative for Clojure CLI
 * [cljfmt-runner](https://github.com/JamesLaverack/cljfmt-runner) — run cljfmt to find and/or fix code formatting issues
-
 
 ## Build tool integration
 
