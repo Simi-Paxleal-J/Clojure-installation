@@ -15,6 +15,7 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 * [lein-tools-deps](https://github.com/RickMoynihan/lein-tools-deps) - plugin to use deps.edn dependencies from Leiningen
 * [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation
 * [depify](https://github.com/hagmonk/depify) - creates or updates a deps.edn file for existing Leiningen projects
+* [meyvn](https://github.com/danielsz/meyvn) - a tools.deps interface to Maven for building, packaging etc
 
 ## Packaging
 
