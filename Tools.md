@@ -30,6 +30,7 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 
 * [test-runner](https://github.com/cognitect-labs/test-runner) - Clojure test runner based on deps.edn
 * [cljs-test-runner](https://github.com/Olical/cljs-test-runner) - ClojureScript test runner based on deps.edn
+* [Kaocha](https://github.com/lambdaisland/kaocha) - Full featured test runner
 
 ## Deps management
 
