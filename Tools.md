@@ -44,3 +44,4 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 ## Deployment
 
 * [Datomic Ions](https://docs.datomic.com/cloud/ions/ions.html) - deploy Clojure code to an autoscalable Datomic cluster in AWS
+* [deps-deploy](https://github.com/slipset/deps-deploy) - A Clojure library to deploy your stuff to clojars
