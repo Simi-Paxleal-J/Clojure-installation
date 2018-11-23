@@ -21,7 +21,7 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 
 * [clj.native-image](https://github.com/taylorwood/clj.native-image) - Generate GraalVM native images with Clojure CLI and deps.edn
 * [badigeon](https://github.com/EwenG/badigeon)
-* [depstar](https://github.com/healthfinch/depstar) - clj-based uberjarrer
+* [depstar](https://github.com/seancorfield/depstar) - clj-based uberjarrer - fork of [depstar](https://github.com/healthfinch/depstar) with bug fixes and "thin" JAR support
 * [Pack](https://github.com/juxt/pack.alpha) - Clojure project packager using tools.deps
 * [revolt](https://github.com/mbuczko/revolt) - trampoline to building/packaging tasks, generates highly configurable [capsules](http://www.capsule.io/)
 * [cambada](https://github.com/luchiniatwork/cambada) - a packager for Clojure supporting jar, uberjar and GraalVM's native-image
