@@ -27,6 +27,10 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 * [revolt](https://github.com/mbuczko/revolt) - trampoline to building/packaging tasks, generates highly configurable [capsules](http://www.capsule.io/)
 * [cambada](https://github.com/luchiniatwork/cambada) - a packager for Clojure supporting jar, uberjar and GraalVM's native-image
 
+## Versioning and Releasing
+
+* [Metav](https://github.com/jgrodziski/metav) - Deduce version from git state and release Clojure project based on tools.deps (check clean state of repo, bump version, tag, push)
+
 ## Testing
 
 * [test-runner](https://github.com/cognitect-labs/test-runner) - Clojure test runner based on deps.edn
