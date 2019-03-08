@@ -4,12 +4,12 @@ Currently, `clj` on Windows is in an alpha state. Please try it and provide feed
 
 First, download the latest version of the installer:
 
-* https://download.clojure.org/install/win-install-1.10.0.436.ps1
+* https://download.clojure.org/install/win-install-1.10.0.439.ps1
 
 When you run the installer, you will be prompted with several possible install locations:
 
 ```
-PS Y:\Downloads> .\win-install-1.10.0.434.ps1
+PS Y:\Downloads> .\win-install-1.10.0.439.ps1
 Downloading Clojure tools
 WARNING: Clojure will install as a module in your PowerShell module path.
 
