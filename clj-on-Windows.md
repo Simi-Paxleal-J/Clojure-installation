@@ -4,7 +4,7 @@ Currently, `clj` on Windows is in an alpha state. Please try it and provide feed
 
 First, download the latest version of the installer:
 
-* https://download.clojure.org/install/win-install-1.10.0.434.ps1
+* https://download.clojure.org/install/win-install-1.10.0.436.ps1
 
 When you run the installer, you will be prompted with several possible install locations:
 
