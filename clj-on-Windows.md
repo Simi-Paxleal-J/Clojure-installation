@@ -49,6 +49,10 @@ New-Object : Exception calling ".ctor" with "3" argument(s): "End of Central Dir
 
 This might be a corrupted download (need better info on this) - try running it again.
 
+### Quoted strings in -Sdeps argument not handled correctly
+
+See: [TDEPS-121](https://dev.clojure.org/jira/browse/TDEPS-121)
+
 ### Long classpath
 
 If your dependencies create a long classpath (~8k characters), you will exceed the Windows command-line length limit. The best option is probably to reduce the path to your local Maven repository, which is typically at $HOME/.m2/repository. 
