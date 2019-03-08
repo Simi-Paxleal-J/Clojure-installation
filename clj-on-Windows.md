@@ -51,6 +51,8 @@ The local repository location to use can be overridden by creating or modifying 
 
 The local-repo directory is included in the path to every downloaded dependency so shortening that can have a significant impact on classpath line length.
 
+See:  [TDEPS-120](https://dev.clojure.org/jira/browse/TDEPS-120)
+
 ## Questions
 
 We seek your feedback on the best way to integrate the Windows install into your development environment. What's important to you? Self-executing installer? Chocolatey package? Powershell module? Please let us know.
