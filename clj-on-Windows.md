@@ -39,6 +39,16 @@ You can use the following command to allow execution of external scripts for the
 
 Please make sure you understand the ramifications of this before running.
 
+### Install fails in zip expansion
+
+This seems to happen sometimes with an error like:
+
+```
+New-Object : Exception calling ".ctor" with "3" argument(s): "End of Central Directory record could not be found."
+```
+
+This might be a corrupted download (need better info on this) - try running it again.
+
 ### Long classpath
 
 If your dependencies create a long classpath (~8k characters), you will exceed the Windows command-line length limit. The best option is probably to reduce the path to your local Maven repository, which is typically at $HOME/.m2/repository. 
