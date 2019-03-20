@@ -46,6 +46,7 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 ## Runtimes
 
 * [Planck](http://planck-repl.org) - self-hosted ClojureScript REPL with `plk` analog of `clj`
+* [ohmyclj](https://gitlab.com/eval/ohmyclj/) - dev/test/run standalone Clojure scripts with ease
 
 ## Deployment
 
