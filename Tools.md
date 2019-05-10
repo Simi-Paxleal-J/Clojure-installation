@@ -25,6 +25,7 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 * [Pack](https://github.com/juxt/pack.alpha) - Clojure project packager using tools.deps
 * [revolt](https://github.com/mbuczko/revolt) - trampoline to building/packaging tasks, generates highly configurable [capsules](http://www.capsule.io/)
 * [cambada](https://github.com/luchiniatwork/cambada) - a packager for Clojure supporting jar, uberjar and GraalVM's native-image
+* [uberdeps](https://github.com/tonsky/uberdeps) - Uberjar builder for deps.edn projects
 
 ## Versioning and Releasing
 
