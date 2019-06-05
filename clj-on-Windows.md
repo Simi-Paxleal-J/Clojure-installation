@@ -39,6 +39,10 @@ You can use the following command to allow execution of external scripts for the
 
 Please make sure you understand the ramifications of this before running.
 
+If the above does not work for you, you might want to try:
+
+```powershell.exe -noprofile -executionpolicy bypass -file .\win-install-1.10.0.442.ps1```
+
 ### Install fails in zip expansion
 
 This seems to happen sometimes with an error like:
