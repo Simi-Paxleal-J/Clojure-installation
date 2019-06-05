@@ -29,6 +29,18 @@ When choosing which location to install consider these tradeoffs:
 * #1 can be installed without admin privileges but will create a directory in Documents
 * #2 and 3 should probably be run only if you have admin privileges
 
+## Run
+If you are using Windows PowerShell, invoke via `clj` or `clojure`.
+
+If you need to run outside powershell, for example from the old Windows Command Prompt or [Git Bash](https://gitforwindows.org/), try:
+```
+powershell -command clj 
+```
+With command line argument:
+```
+powershell -command clj '-J"-Dfile.encoding=UTF-8"'
+```
+
 ## Known issues
 
 ### Install fails due to permission errors
