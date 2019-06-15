@@ -40,6 +40,21 @@ With command line argument:
 ```
 powershell -command clj '-J"-Dfile.encoding=UTF-8"'
 ```
+### Escaping Quotes
+Escaping quotes can be a bit tricky. Here is the same command in different shells:
+
+PowerShell 
+```
+clj -Sdeps '{:deps {viebel/klipse-repl {:mvn/version ""0.2.3""}}}' -m klipse-repl.main
+```
+Command Prompt 
+```
+powershell -command clj -Sdeps '{:deps {viebel/klipse-repl {:mvn/version """"""0.2.3""""""}}}' -m klipse-repl.main
+```  
+Git Bash 
+```
+powershell -command 'clj -Sdeps "{:deps {viebel/klipse-repl {:mvn/version """"0.2.3""""}}}" -m klipse-repl.main'
+```
 
 ## Known issues
 
