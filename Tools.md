@@ -16,6 +16,8 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 * [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation
 * [depify](https://github.com/hagmonk/depify) - creates or updates a deps.edn file for existing Leiningen projects
 * [meyvn](https://github.com/danielsz/meyvn) - a tools.deps interface to Maven for building, packaging etc
+* [less4clj](https://github.com/Deraen/less4clj) - Less compiler for Clojure using Less4j
+* [sass4clj](https://github.com/Deraen/sass4clj) - SASS compiler for Clojure using Libsass Java wrapper
 
 ## Packaging
 
