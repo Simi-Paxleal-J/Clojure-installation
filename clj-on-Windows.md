@@ -102,4 +102,4 @@ See:  [TDEPS-120](https://dev.clojure.org/jira/browse/TDEPS-120)
 
 We seek your feedback on the best way to integrate the Windows install into your development environment. What's important to you? Self-executing installer? Chocolatey package? Powershell module? Please let us know.
 
-* Scoop is another option that people seem to like -- see https://github.com/littleli/scoop-clojure as an example of how it could be packaged for Scoop
+* Scoop is another option that people seem to like -- see https://github.com/littleli/scoop-clojure as an example of how it could be packaged for Scoop (that depends on this wiki page existing and containing the latest version number for the Powershell installer!).
