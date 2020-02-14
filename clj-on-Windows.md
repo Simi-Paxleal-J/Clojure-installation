@@ -2,7 +2,7 @@ Currently, `clj` on Windows is in an alpha state. Please try it and provide feed
 
 ## Install
 
-Make sure PowerShell 5 (or later, include PowerShell Core) and .NET Framework 4.5 (or later) are installed. Then run:
+Make sure [PowerShell 5](https://aka.ms/wmf5download) (or later, include [PowerShell Core](https://aka.ms/pscore6)) and [.NET Core SDK 2.1+ or .NET Framework 4.5+](https://www.microsoft.com/net/download) (or later) are installed. Then run:
 
 `Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://download.clojure.org/install/win-install-1.10.1.507.ps1')`
 
