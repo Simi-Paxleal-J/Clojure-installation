@@ -10,10 +10,6 @@ or shorter
 
 `iwr -useb download.clojure.org/install/win-install-1.10.1.507.ps1 | iex`
 
-Note: if you get an error you might need to change the execution policy (i.e. enable Powershell) with
-
-`Set-ExecutionPolicy RemoteSigned -scope CurrentUser`
-
 Alternatively, download the latest version of the installer and run the downloaded copy:
 
 * https://download.clojure.org/install/win-install-1.10.1.507.ps1
