@@ -48,6 +48,7 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 * [deps-ancient](https://github.com/slipset/deps-ancient/) - tells you if your `deps.edn` contains outdated deps
 * [tools.deps.graph](https://github.com/clojure/tools.deps.graph) - create dependency graphs for your `deps.edn`
 * [deps-try](https://gitlab.com/eval/deps-try) - quickly try out dependencies on rebel-readline
+* [vizns](https://github.com/SevereOverfl0w/vizns) - visualize the relationships between namespaces and dependencies
 
 ## Runtimes
 
