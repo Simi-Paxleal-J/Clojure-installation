@@ -111,3 +111,5 @@ See:  [TDEPS-120](https://dev.clojure.org/jira/browse/TDEPS-120)
 We seek your feedback on the best way to integrate the Windows install into your development environment. What's important to you? Self-executing installer? Chocolatey package? Powershell module? Please let us know.
 
 * Scoop is another option that people seem to like -- see https://github.com/littleli/scoop-clojure as an example of how it could be packaged for Scoop (that depends on this wiki page existing and containing the latest version number for the Powershell installer!).
+
+* There is also a Clojure based launcher compiled with GraalVM as a native executable which works with cmd.exe as well as powershell -- see https://github.com/borkdude/deps.clj to get started with it, or just run the following from PowerShell: `PowerShell -Command "iwr -useb https://raw.githubusercontent.com/borkdude/deps.clj/master/install.ps1 | iex"` and you're ready to type `clj` at cmd.exe or the powershell prompt.
