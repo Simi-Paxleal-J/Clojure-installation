@@ -3,6 +3,7 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 ## Project creation
 
 * [clj-new](https://github.com/seancorfield/clj-new) - generate new project templates using just the `clj` command-line tool
+* [clj-template](https://github.com/io-tupelo/clj-template) - Clone this template project and start writing code. Includes both Deps/CLI (+ Kaocha) and Leiningen (+ lein-test-refresh)
 
 ## Lint tool integration
 
