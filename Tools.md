@@ -31,6 +31,9 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 * [uberdeps](https://github.com/tonsky/uberdeps) - Uberjar builder for deps.edn projects
 * [vulcan](https://github.com/omnyway-labs/vulcan) - Tool to simplify workflow with Git-based Clojure dependencies using clojure.tools.deps
 
+## Continuous Integration
+* [DeLaGuardo/setup-clojure](https://github.com/DeLaGuardo/setup-clojure) - a GitHub Action step
+
 ## Versioning and Releasing
 
 * [Metav](https://github.com/jgrodziski/metav) - Deduce version from git state and release Clojure project based on tools.deps (check clean state of repo, bump version, tag, push)
