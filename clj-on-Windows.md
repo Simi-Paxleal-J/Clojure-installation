@@ -38,7 +38,7 @@ When choosing which location to install consider these tradeoffs:
 * #2 and 3 should probably be run only if you have admin privileges
 
 ## Run
-If you are using Windows PowerShell, invoke via `clj` or `clojure`.
+If you are using Windows PowerShell, invoke via `clj` or `clojure`. Do not use Powershell ISE.
 
 If you need to run outside powershell, for example from the old Windows Command Prompt or [Git Bash](https://gitforwindows.org/), try:
 ```
@@ -105,6 +105,20 @@ The local repository location to use can be overridden by creating or modifying 
 The local-repo directory is included in the path to every downloaded dependency so shortening that can have a significant impact on classpath line length.
 
 See:  [TDEPS-120](https://dev.clojure.org/jira/browse/TDEPS-120)
+
+### Failing to download
+
+If you get the following error:
+```
+ PS C:\Users\you> clj
+java.exe : Downloading: org/clojure/clojure/1.10.1/clojure-1.10.1.pom from central 
+ At C:\Users\you\Documents\WindowsPowerShell\Modules\ClojureTools\ClojureTools.psm1:304 char:5
++     & $JavaCmd -classpath $ToolsCp clojure.main -m clojure.tools.deps ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Downloading: or...om from central:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError 
+```
+You might be on Powershell ISE. Use Powershell instead.
 
 ## Questions
 
