@@ -65,6 +65,7 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 
 * [Datomic Ions](https://docs.datomic.com/cloud/ions/ions.html) - deploy Clojure code to an autoscalable Datomic cluster in AWS
 * [deps-deploy](https://github.com/slipset/deps-deploy) - A Clojure library to deploy your stuff to clojars
+* [s3-mvn-upload](https://github.com/kennyjwilli/s3-mvn-upload) - Deploy a JAR file to a S3 Maven repository
 
 ## Calling lein from clj
 
