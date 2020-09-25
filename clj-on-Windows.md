@@ -4,20 +4,20 @@ Currently, `clj` on Windows is in an alpha state. Please try it and provide feed
 
 Make sure [PowerShell 5](https://aka.ms/wmf5download) (or later, include [PowerShell Core](https://aka.ms/pscore6)) and [.NET Core SDK 2.1+ or .NET Framework 4.5+](https://www.microsoft.com/net/download) (or later) are installed. Also install Java 8+ and set JAVA_HOME in your environment variables. Then run:
 
-`Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://download.clojure.org/install/win-install-1.10.1.561.ps1')`
+`Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://download.clojure.org/install/win-install-1.10.1.697.ps1')`
 
 or shorter
 
-`iwr -useb download.clojure.org/install/win-install-1.10.1.561.ps1 | iex`
+`iwr -useb download.clojure.org/install/win-install-1.10.1.697.ps1 | iex`
 
 Alternatively, download the latest version of the installer and run the downloaded copy:
 
-* https://download.clojure.org/install/win-install-1.10.1.561.ps1
+* https://download.clojure.org/install/win-install-1.10.1.697.ps1
 
 When you run the installer, you will be prompted with several possible install locations:
 
 ```
-PS Y:\Downloads> .\win-install-1.10.1.561.ps1
+PS Y:\Downloads> .\win-install-1.10.1.697.ps1
 Downloading Clojure tools
 WARNING: Clojure will install as a module in your PowerShell module path.
 
@@ -76,7 +76,7 @@ Please make sure you understand the ramifications of this before running.
 
 If the above does not work for you, you might want to try:
 
-```powershell.exe -noprofile -executionpolicy bypass -file .\win-install-1.10.1.561.ps1```
+```powershell.exe -noprofile -executionpolicy bypass -file .\win-install-1.10.1.697.ps1```
 
 ### Install fails in zip expansion
 
