@@ -70,3 +70,11 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 ## Calling lein from clj
 
 * https://github.com/oakes/full-stack-clj-example
+
+## Configuration and Environment Variables
+
+* [clj-config](https://gitlab.com/orangefoxcollective/clj-config) - A Clojure library for managing configuration and environment variables
+
+## Migrations
+
+* [clj-migratus](https://gitlab.com/orangefoxcollective/clj-migratus) - A command line tool for managing migrations with Migratus
