@@ -47,6 +47,7 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 
 ## Deps management
 
+* [antq](https://github.com/liquidz/antq) - Point out your outdated dependencies.
 * [Depot](https://github.com/Olical/depot) - Find newer versions of your deps
 * [find-deps](https://github.com/hagmonk/find-deps) - Find and add deps using the Clojars and Maven search APIs
 * [deps-ancient](https://github.com/slipset/deps-ancient/) - tells you if your `deps.edn` contains outdated deps
