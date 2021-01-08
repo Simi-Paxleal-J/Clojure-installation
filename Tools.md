@@ -1,5 +1,9 @@
 This is a page to collect tools that use or work with tools.deps.alpha (or the clojure tools).
 
+## User-level configuration for Clojure tools
+
+* [practicalli/clojure-deps-edn](https://github.com/practicalli/clojure-deps-edn) - aliases for community tools and library repository configuration examples
+
 ## Project creation
 
 * [clj-new](https://github.com/seancorfield/clj-new) - generate new project templates using just the `clj` command-line tool
