@@ -38,6 +38,10 @@ This is a page to collect tools that use or work with tools.deps.alpha (or the c
 ## Continuous Integration
 * [DeLaGuardo/setup-clojure](https://github.com/DeLaGuardo/setup-clojure) - a GitHub Action step
 
+## Templating
+
+* [clj-art](https://github.com/vivid-inc/ash-ra-template/tree/art-0.5.0/clj-art) - Ash Ra Template expressive & customizable template system featuring Clojure language processing
+
 ## Versioning and Releasing
 
 * [Metav](https://github.com/jgrodziski/metav) - Deduce version from git state and release Clojure project based on tools.deps (check clean state of repo, bump version, tag, push)
